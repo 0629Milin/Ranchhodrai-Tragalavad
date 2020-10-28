@@ -1,0 +1,126 @@
+
+.pb1{
+	padding-bottom: 80px !important;
+}
+
+
+.main-header .logo-outer {
+    position: absolute;
+    left: 46% !important;
+    margin-left: -100px;
+    width: 302px !important;
+    padding: 15px 0px 12px 0px !important;
+    z-index: 12;
+    background: none;
+    text-align: center;
+    /* background: red; */
+}
+
+.pull-left a img{
+	max-width: 50% !important;
+}
+
+
+.ftlogo1{
+	max-width: 21% !important;
+}
+
+.color-palate{
+	display: none;
+}
+
+.preloader{
+	display: none;
+}
+
+
+.page-title {
+    padding: 45px 0px 40px !important;
+   }
+
+
+.main-slider .tp-dottedoverlay {
+    background: rgba(0, 0, 0, 0.17) !important;
+}
+
+
+
+section.experiance-section{
+    background-image: url(images/background/1.html);
+    background-size: contain !important;
+}
+
+
+.experiance-section {
+
+    padding: 175px 0px 87px !important;
+    
+}
+
+
+.experiance-section {
+    padding: 85px 0px 87px !important;
+}
+
+
+.main-footer .footer-bottom {
+   
+    margin-top: -26px !important;
+   
+}
+
+@media screen and (max-width: 768px){
+
+.main-header .logo-outer {
+    position: absolute;
+    left: 46% !important;
+    margin-left: -150px !important;
+    width: 230px !important;
+    padding: 15px 0px 12px 0px !important;
+    z-index: 12;
+    background: none;
+    text-align: center;
+    /* background: red; */
+}
+
+.main-menu .navbar-header .navbar-toggle {
+    
+    margin: -41px 0px 0px 0px !important;
+    
+}
+
+.experiance-section {
+   
+    padding: 67px 0px 70px !important;
+  
+}
+
+
+.sidebar-page-container {
+   
+    padding: 49px 0px 90px !important;
+}
+
+
+.page-title {
+    padding: 16px 0px 16px !important;
+}
+
+.styled-pagination {
+    text-align: left !important;
+}
+
+
+.main-header .header-top {
+    padding: 4px 0px !important;
+  
+}
+
+
+.ftlogo1 {
+    max-width: 80% !important;
+}
+
+
+
+}
