@@ -331,7 +331,7 @@ img{
 	z-index:100;
 	cursor:pointer;
 	border-radius:50%;
-	background:#1c1c1c;
+	background:maroon;
 	display:none;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
@@ -341,8 +341,8 @@ img{
 }
 
 .scroll-to-top:hover{
-	color:#ffffff;
-	background:#85c977;
+	color:maroon;
+	background:#f3dbdb;
 }
 
 /*** 
@@ -525,6 +525,12 @@ img{
 	position:relative;
 	display:inline-block;
 	max-width:100%;
+}
+
+@media(max-width: 768px) {
+	.main-header .header-upper .logo img{
+		margin-left: 20%;
+	}
 }
 
 .main-header .logo-outer{
