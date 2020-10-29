@@ -368,10 +368,10 @@
 	
 	.main-menu .navbar-header .navbar-toggle{
 		display:inline-block;
-		border:1px solid #85c977;
+		border:1px solid #F0C45F;
 		margin:28px 0px 0px 0px;
 		border-radius:0px;
-		background:#85c977;
+		background:#F0C45F;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle .icon-bar{
@@ -382,7 +382,7 @@
 		float:none !important;
 		margin:0px !important;
 		width:100% !important;
-		background:#85c977;
+		background:#F0C45F;
 		border-top:none;
 	}
 	
@@ -427,7 +427,7 @@
 		right:auto !important;
 		top:auto !important;
 		width:100%;
-		background:#85c977;
+		background:#F0C45F;
 		-webkit-border-radius:0px;
 		-ms-border-radius:0px;
 		-o-border-radius:0px;
@@ -473,14 +473,14 @@
 		padding:10px 15px !important;
 		line-height:22px;
 		color:#ffffff;
-		background:#85c977;
+		background:#F0C45F;
 		text-align:left;
 	}
 	
 	.main-menu .navbar-collapse > .navigation > li > a:hover,
 	.main-menu .navbar-collapse > .navigation > li > a:active,
 	.main-menu .navbar-collapse > .navigation > li > a:focus{
-		background:#85c977;
+		background:#F0C45F;
 	}
 	
 	.main-menu .navbar-collapse > .navigation > li:hover > a,
@@ -488,7 +488,7 @@
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
-		background:#85c977;
+		background:#F0C45F;
 		color:#ffffff !important;
 	}
 	

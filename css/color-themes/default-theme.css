@@ -42,7 +42,7 @@ a,
 .sidebar .popular-posts .post a, .sidebar .popular-posts .post a:hover,
 .sidebar .popular-posts .post-info,
 .news-block .inner-box .image .overlay-box .icon{
-	color:#85c977;
+	color:#F0C45F;
 }
 
 /*Border Color*/
@@ -66,7 +66,7 @@ a,
 .contact-form .form-group input[type="tel"]:focus,
 .contact-form .form-group input[type="email"]:focus,
 .contact-form .form-group textarea:focus{
-	border-color:#85c977;
+	border-color:#F0C45F;
 }
 
 /*Background Color*/
@@ -100,7 +100,7 @@ a,
 .sidebar .popular-tags a:hover,
 .contact-form-section .column h2:after,
 .contact-info-detail li .icon{
-	background-color:#85c977;
+	background-color:#F0C45F;
 }
 
 /*RGBA Color*/
@@ -118,7 +118,7 @@ a,
 @media only screen and (max-width: 767px){
 	
 	.main-menu .navbar-header .navbar-toggle{
-		border-color:#85c977;
+		border-color:#F0C45F;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle,
@@ -136,7 +136,7 @@ a,
 	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
 	.main-menu .navbar-collapse > .navigation > li.current > a,
 	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a{
-		background-color:#85c977;
+		background-color:#F0C45F;
 	}
 	
 }
